@@ -2,8 +2,8 @@
 # Basic settings.
 #
 #url: http://qckanemoto.github.io # or http://you.github.io
-url: http://localhost:4000
-baseurl: /jekyll-qck-theme # or ""
+url: http://wmspectre.github.io
+baseurl: ""
 title: Jason Wang's Blog
 description: Welcome to Jason Wang's Blog
 avatar: /assets/img/ogp.png
