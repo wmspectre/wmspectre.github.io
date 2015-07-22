@@ -13,11 +13,11 @@ avatar: /assets/img/ogp.png
 #
 icons:
   rss: true
-  email:
-  github: qckanemoto
+  email: wangmu0902@126.com
+  github: wmspectre
   bitbucket:
-  twitter: qckanemoto
-  facebook:
+  twitter: wmspecter
+  facebook: mu.wang.52
   google_plus:
   tumblr:
   behance:
@@ -70,7 +70,7 @@ paginate_path: page/:num
 #
 share_buttons: false
 ogp:
-  image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
+  image_url: /assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
